@@ -1,0 +1,16 @@
+.jumbotronText {
+    text-align: center;
+    /* padding-top: 25%; */
+}
+
+.jumbotron {
+    background-image: url(../images/IMG_3390.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
